@@ -16,25 +16,25 @@ en: &DEFAULT_EN
     button: Play Ball
     buttonlink: "#skills"
 
-  skills:
+  services:
     title: "Skills"
     text: "Check out all the skills programs offered at our academy "
-    section: skills
+    section: services
     list:
       - title: "Pitching"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fa-baseball #find more at https://fontawesome.com/icons
+        icon: #find more at https://fontawesome.com/icons
       - title: "Hitting"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fa-baseball-bat-ball
+        icon:
       - title: "[Fielding](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
-        icon: fa-solid fa-bullseye
+        icon:
 
-  teams:
+  portfolio:
     title: "Teams"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: teams
+    section: portfolio
     closebutton: "Close Team Details"
 
   timeline:
@@ -74,8 +74,8 @@ en: &DEFAULT_EN
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
-  sponsors:
-    section: sponsors
+  clients:
+    section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
@@ -92,11 +92,11 @@ en: &DEFAULT_EN
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
-  staff:
+  team:
     title: "Coaching Staff"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Meet our wonderful coaching staff!. **Markdown** supported.
-    section: staff
+    section: team
     people:
       - name: "Alberto Flores"
         role: "Coach"
