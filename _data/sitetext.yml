@@ -23,12 +23,12 @@ en: &DEFAULT_EN
     list:
       - title: "Pitching"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-baseball #find more at https://fontawesome.com/icons
+        icon: assets/img/skills/pitching.jpg
       - title: "Hitting"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fab fa-baseball
-      - title: "[Fielding](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Fielding"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fa-baseball
 
   portfolio:
