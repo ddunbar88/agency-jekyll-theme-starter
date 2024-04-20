@@ -26,10 +26,10 @@ en: &DEFAULT_EN
         icon: fas fa-baseball
       - title: "Hitting"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fab fa-baseball
+        icon: fat fa-baseball
       - title: "Fielding"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fab fa-markdown
+        icon: fab fa-baseball
 
 
   portfolio:
