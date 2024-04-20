@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Pitching"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: assets/img/skills/pitching.jpg
+        icon: fas fa-baseball
       - title: "Hitting"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fab fa-baseball
