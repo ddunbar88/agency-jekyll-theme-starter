@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: Welcome to In The Zone Athletics!
     text: Home of the Matadors
-    button: Play Ball
-    buttonlink: "#services"
+    button: Try Out Form
+    buttonlink: https://docs.google.com/forms/d/e/1FAIpQLSfT4VLKGpUIsqw0u_BN2RUwC43zlI_uvIy69xR0hmr2oP9V1A/viewform
 
   services:
     title: "Skills"
