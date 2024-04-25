@@ -166,10 +166,10 @@ es: &DEFAULT_ES
     section: portafolio
     closebutton: "Cerrar Proyecto"
 
-  timeline:
-    title: "Cronología"
-    text: "Lorem ipsum timeline"
-    section: cronologia
+  #timeline:
+    #title: "Cronología"
+    #text: "Lorem ipsum timeline"
+    #section: cronologia
     # left is the default
     #start_align: "left"
     events:
